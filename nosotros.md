@@ -21,8 +21,8 @@ Somos un grupo entusiasta de la programación que nos unimos para compartir nues
 * Organizamos y participamos en eventos  para fomentar la comunidad y el aprendizaje entre pares.
 
 ## ¿Te gustaría unirte a nosotros?
-Si eres un programador o estudiante apasionado, ¡te invitamos a unirte a nuestra comunidad completando este formulario:
-[https://docs.google.com/forms/d/e/1FAIpQLSexB5DiPjPbXM9JmSMzdEggbJqdJ6FwSMsy2YSilrOOGA5_Gw/viewform]
+Si eres un programador o estudiante apasionado, ¡te invitamos a unirte a nuestra comunidad completando [este formulario](https://docs.google.com/forms/d/e/1FAIpQLSexB5DiPjPbXM9JmSMzdEggbJqdJ6FwSMsy2YSilrOOGA5_Gw/viewform)  
+En caso de dudas, consultas, propuestas o sugerencias  puedes contactar a [Miguel Barraza](https://wa.me/5491164240985)
 
 ## ¿Qué puedes aportar?
 
