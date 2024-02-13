@@ -18,7 +18,7 @@ Somos un grupo entusiasta de la programación que nos unimos para compartir nues
 * Compartimos conocimientos y experiencias sobre diferentes lenguajes de programación, tecnologías y metodologías.
 * Colaboramos en proyectos de código abierto y promovemos la accesibilidad en el desarrollo de sistemas y software.
 * Creamos material de apoyo y aprendizaje para personas con discapacidad visual o que utilizan tecnologías de asistencia.
-* Organizamos  y participamos en eventos  para fomentar la comunidad y el aprendizaje entre pares.
+* Organizamos y participamos en eventos  para fomentar la comunidad y el aprendizaje entre pares.
 
 ## ¿Te gustaría unirte a nosotros?
 Si eres un programador o estudiante apasionado, ¡te invitamos a unirte a nuestra comunidad completando este formulario:

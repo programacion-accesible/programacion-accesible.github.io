@@ -6,4 +6,4 @@ permalink: /actividades/
 
 backlog de actividades  en la comunidad
 
-* ninguna por el momento.
+* Ninguna por el momento.

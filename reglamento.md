@@ -4,15 +4,15 @@ title: Reglamento de la comunidad
 permalink: /reglamento/
 ---
 
-# Reglamento del grupo Programando Accesible
+# Reglamento del grupo Programación Accesible
 
 ## 1. Objetivo del grupo
 
-Programando Accesible es una comunidad formada por programadores y/o personas que desean aprender a programar.
+Programaciónn Accesible es una comunidad formada por programadores y/o personas que desean aprender a programar.
 Este grupo está orientado especialmente a usuarios de lectores de pantalla.
 Aquí se tratarán todos los temas que tengan que ver con la programación y con los lectores de pantalla, tales como las técnicas para hacer que un software sea accesible con esta herramienta, las herramientas accesibles para desarrolladores o cualquier material que a un usuario de lectores de pantalla le sea provechoso para estudiar cualquier lenguaje de programación.
-Se permite compartir material de estudio o vídeos que sean accesibles bajo las pautas WCAG
-Además del grupo de WhatsApp (nuestra principal herramienta de comunicación) esta comunidad cuenta con una web  en github en el que compartir recursos, cuya dirección es [https://programacion-accesible.github.io/]  
+Se permite compartir material de estudio o vídeos que sean accesibles bajo las pautas WCAG.
+Además del grupo de WhatsApp (nuestra principal herramienta de comunicación) esta comunidad cuenta con una web en github en el que compartir recursos, cuya dirección es [https://programacion-accesible.github.io/]  
 
 ## 2. Fueras de tema
 
@@ -44,14 +44,14 @@ En el caso de enviar un audio, habrá que estructurar bien lo que se va a grabar
 
 ### 5.3. Contenido
 
-Antes de enviar cualquier tipo de contenido hay que analizarlo y ver si va a ser interesante para todos y cada uno de los miembros del grupo. Si Programando Accesible no es el grupo adecuado, no se enviará el contenido.
+Antes de enviar cualquier tipo de contenido hay que analizarlo y ver si va a ser interesante para todos y cada uno de los miembros del grupo. Si Programación Accesible no es el grupo adecuado, no se enviará el contenido.
 En particular, no se permite el spam ni la publicidad.
 Quien envía un contenido al grupo será responsable de que ese contenido procede de una fuente fiable y cumple con las normas de accesibilidad para su correcto uso y disfrute por parte del resto del grupo.
 Se evitará el reenvío de cualquier información que pueda ser una noticia falsa y se tratará de verificar toda la información antes de enviarla.
 
 ### 5.4. Opiniones
 
-quien aporta contenido al grupo lo hace porque cree que es una información valiosa para la comunidad. Cualquiera puede opinar sobre el contenido que envía cualquier otro miembro del grupo, aunque las opiniones sean distintas. Se mantendrá siempre el clima de respeto hacia los demás. Todas las críticas se harán de forma constructiva.
+Quien aporta contenido al grupo lo hace porque cree que es una información valiosa para la comunidad. Cualquiera puede opinar sobre el contenido que envía cualquier otro miembro del grupo, aunque las opiniones sean distintas. Se mantendrá siempre el clima de respeto hacia los demás. Todas las críticas se harán de forma constructiva.
 Hay que tener especial cuidado con las bromas y las ironías. Si se hace alguna, hay que asegurarse de que se va a entender.
 
 ### 5.5. Privacidad
@@ -64,9 +64,9 @@ Por respeto a la cantidad de tiempo que cada usuario puede invertir en consultar
 
 ### 5.7. Enriquecimiento del grupo
 
-Nadie debe buscar en Programando Accesible el grupo en el que únicamente se resuelvan sus dudas. Cualquiera debe tratar de aportar todo el contenido que pueda.
+Nadie debe buscar en Programación Accesible el grupo en el que únicamente se resuelvan sus dudas. Cualquiera debe tratar de aportar todo el contenido que pueda.
 Se pueden proponer actividades para hacer en el grupo, de forma que todos los miembros puedan practicar la programación en la medida de sus conocimientos. También se pueden proponer proyectos que a cada uno le gustaría llevar a cabo y buscar colaboradores en el grupo.
-Hay muchos otros lugares en internet en los que hablar de programación. Si alguien encuentra allí la respuesta a sus dudas, se le invita a que la publique en Programando Accesible para que la comunidad se enriquezca con nuevas ideas e información.
+Hay muchos otros lugares en internet en los que hablar de programación. Si alguien encuentra allí la respuesta a sus dudas, se le invita a que la publique en Programación Accesible para que la comunidad se enriquezca con nuevas ideas e información.
 
 ### 5.8. Comunidad y administración
 

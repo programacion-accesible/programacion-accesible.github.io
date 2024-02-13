@@ -4,4 +4,4 @@ title: Proyectos
 permalink: /proyectos/
 ---
 
-proyectos en el cual puedes participar.
+Proyectos en los cuales puedes participar.
