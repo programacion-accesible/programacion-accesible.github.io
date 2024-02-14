@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: acerca de
 permalink: /nosotros/

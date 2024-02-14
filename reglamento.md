@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: Reglamento de la comunidad
 permalink: /reglamento/
