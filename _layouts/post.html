@@ -10,7 +10,7 @@ layout: default
   </div>
 
   <div class="date">
-    Fecha de la entrada: {{ page.date | date: "%B %e, %Y" }}
+    {% include date_es.html date=post.date time-attributes='class="post-date"' %}
   </div>
 
   {% include disqus.html %}
