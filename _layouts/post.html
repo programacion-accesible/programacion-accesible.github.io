@@ -12,7 +12,7 @@ layout: default
   <div class="date">
     <time datetime="{{ post.date }}">
       {{ post.date | date: '%-d' }} de
-      {% assing m = post.date | date: '%-m' %}
+      {% assign m = post.date | date: '%-m' %}
       {% case m %}
       {% when '1' %}enero
       {% when '2' %}febrero
