@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Desarrollo de complemenos para NVDA
+title: Desarrollo de complementos para NVDA
 category: comunidad
 tags: [NVDA, complementos, módulos, python]
 author: Gera Kessler
