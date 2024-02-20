@@ -3,6 +3,8 @@ layout: post
 title: inicio de la web de la comunidad en github
 category: comunidad
 tags: [comunidad, novedades]
+author: Miguel Barraza
+excerpt: conoce quienes somos y que encontrarás  en esta web.
 ---
 
 ¡Bienvenido a Programación Accesible!
@@ -20,10 +22,13 @@ En esta comunidad encontrarás:
 ## ¿Quieres formar parte de la comunidad?  
 
 ¡ÚNETE A NUESTRO GRUPO DE WHATSAPP!
-[Enlace al grupo de WhatsApp]  
-lee el reglamento de la comunidad aquí:
-y luego de enviar la solicitud contacta a Miguel Barraza para contarnos porqué te gustaría unirte enviando un mensaje por whatsapp.
-
+[Enlace al grupo de WhatsApp](https://chat.whatsapp.com/GpUdsVY2HyB8wKv1TjNNSu)  
+lee el 
+[reglamento de la comunidad,](https://programacion-accesible.github.io/reglamento/)  
+y puedes conocernos un poco mas leyendo sobre [nosotros.](https://programacion-accesible.github.io/nosotros/)  
+Luego de enviar tu solicitud tendrás que completar el 
+[formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSexB5DiPjPbXM9JmSMzdEggbJqdJ6FwSMsy2YSilrOOGA5_Gw/viewform)
+ para ser aceptado/a.
 
 ## ¿Qué vas a encontrar en esta web?
 
