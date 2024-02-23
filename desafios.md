@@ -1,7 +1,8 @@
 ---
 layout: page
 title: challenge o desafíos
-permalink: /challenges/
+permalink: /desafios/
 ---
 
-Desafíos de programación propuesto por la comunidad.
+Desafíos de programación propuesto por la comunidad.  
+(En construcción).
