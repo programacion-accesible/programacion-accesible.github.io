@@ -8,8 +8,8 @@ layout: default
   <div class="entry">{{ content }}</div>
 
   <div class="date">
-    autor: {{ page.author }} <br />
-    publicado:
+    Autor: {{ page.author }} <br />
+    Publicado:
     <time datetime="{{ page.date }}">
       {{ page.date | date: '%-d' }} de {% assign m = page.date | date: '%-m' %}
       {% case m %} {% when '1' %}enero {% when '2' %}febrero {% when '3' %}marzo
