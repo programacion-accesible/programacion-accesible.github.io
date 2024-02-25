@@ -1,0 +1,9 @@
+<div>
+<!-- <h2 class="category-head">{{ include.category_name }}</h2> -->
+
+  <ul list-style-type="none" >
+    {% for post in site.categories[include.category_name] %}
+    <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></li>
+    {% endfor %}
+  </ul>
+</div>
