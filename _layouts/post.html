@@ -21,4 +21,14 @@ layout: default
   </div>
 
   <div class="entry">{{ content }}</div>
+
+<div id="tags">
+etiquetas:
+<ul style="list-style-type: none;">
+      {% for tag in page.tags %}
+      <li><a href="{{ site.baseurl }}/tag/{{ tag }}">{{tag}}</a></li>
+      {% endfor %}
+</ul>
+</div>
+
 </article>
