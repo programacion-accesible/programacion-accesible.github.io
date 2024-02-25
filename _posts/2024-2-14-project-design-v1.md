@@ -1,6 +1,7 @@
 ---
 layout: post
 title: edición  1 de diseño de proyectos en comunidad
+author: Miguel Barraza
 category: comunidad
 tags: [comunidad, novedades]
 ---

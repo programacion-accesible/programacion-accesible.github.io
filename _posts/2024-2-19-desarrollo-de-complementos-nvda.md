@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Desarrollo de complementos para NVDA
-category: comunidad
-tags: [NVDA, complementos, módulos, python]
+category: programación
+tags: [NVDA, complementos,  python]
 author: Gera Kessler
 excerpt: Elementos básicos para la creación de módulos globales o de aplicación para el lector de pantallas NVDA
 ---
