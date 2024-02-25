@@ -2,8 +2,8 @@
 layout: post
 title: Resumen de la reunión del 24 de febrero
 author: Quico Saval
-tags: [reuniones]
-cetegory: comunidad
+category: comunidad
+tags: [eventos]
 excerpt: Resumen de la primera reunión de 2024 que ha celebrado la comunidad
 ---
 
