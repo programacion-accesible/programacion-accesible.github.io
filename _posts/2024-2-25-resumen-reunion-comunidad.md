@@ -1,8 +1,10 @@
 ---
+layout: post
 title: Resumen de la reunión del 24 de febrero
 author: Quico Saval
 tags: [reuniones]
-excerpt: La comunidad sigue con su rutina, se alegra de los avances que ha habido pero quiere más
+cetegory: comunidad
+excerpt: Resumen de la primera reunión de 2024 que ha celebrado la comunidad
 ---
 
 El 24 de febrero de 2024 tuvo lugar la última reunión de la comunidad. Como siempre, las presentaciones sirvieron para que los miembros se conozcan mejor y para que todo el mundo se ponga al día sobre lo que los demás hacen en relación con la programación. Algunas personas que hacía tiempo que no participaban dejaron constancia de su alegría por todos los cambios que han ocurrido y que se detallan a continuación.
