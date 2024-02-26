@@ -5,10 +5,10 @@ layout: default
 <article class="post">
   <h1>{{ page.title }}</h1>
 
-  <div class="entry">{{ content }}</div>
-
   <div class="date">
-    Autor: {{ page.author }} <br />
+    Autor: {{ page.author }}.<br />
+    En la categoría: 
+<a href="{{ site.baseurl }}/{{ page.category }}">{{ page.category }}</a><br />
     Publicado:
     <time datetime="{{ page.date }}">
       {{ page.date | date: '%-d' }} de {% assign m = page.date | date: '%-m' %}
@@ -19,4 +19,16 @@ layout: default
       de {{ page.date | date: '%Y' }}
     </time>
   </div>
+
+  <div class="entry">{{ content }}</div>
+
+<div id="tags">
+etiquetas:
+<ul style="list-style-type: none;">
+      {% for tag in page.tags %}
+      <li><a href="{{ site.baseurl }}/tag/{{ tag }}">{{tag}}</a></li>
+      {% endfor %}
+</ul>
+</div>
+
 </article>
