@@ -2,7 +2,7 @@
 layout: post
 title: Primera Reunión del 2024
 category: comunidad
-tags: [comunidad]
+tags: [programación-accesible-comunidad, eventos]
 author: Miguel Barraza
 ---
 

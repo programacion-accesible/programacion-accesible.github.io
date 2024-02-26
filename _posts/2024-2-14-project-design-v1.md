@@ -3,7 +3,7 @@ layout: post
 title: edición  1 de diseño de proyectos en comunidad
 author: Miguel Barraza
 category: comunidad
-tags: [comunidad, novedades]
+tags: [programación-accesible-comunidad, eventos]
 ---
 
 En la última  reunión de comunidad  en  diciembre 2023, decidimos que se pueda  presentar una idea, y armarla en comunidad. Se podía  proponer cualquier tipo de proyecto, complemento de NVDA, juego, proyecto de aplicación  web, mobile, etc. luego se analizará en comunidad y se elije dos proyectos.

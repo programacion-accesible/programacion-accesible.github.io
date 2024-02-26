@@ -3,7 +3,7 @@ layout: post
 title: Resumen de la reunión del 24 de febrero
 author: Quico Saval
 category: comunidad
-tags: [eventos]
+tags: [programación-accesible-comunidad, eventos]
 excerpt: Resumen de la primera reunión de 2024 que ha celebrado la comunidad
 ---
 

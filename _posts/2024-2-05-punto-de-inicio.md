@@ -2,7 +2,7 @@
 layout: post
 title: inicio de la web de la comunidad en github
 category: comunidad
-tags: [comunidad, novedades]
+tags: [programación-accesible-comunidad]
 author: Miguel Barraza
 excerpt: conoce quienes somos y que encontrarás  en esta web.
 ---
