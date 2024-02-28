@@ -39,8 +39,8 @@ sintaxis básica y algunos ejemplos de cómo puedes usarlo. También te voy
 a dar algunos recursos para que puedas sacarle el máximo provecho a este
 lenguaje. Pero te adelanto que lo que notarás es que MarkDown es una simplificación de HTML.
 
-------------------------------------------------------------------------
-
+<!-- ------------------------------------------------------------------------
+ -->
 ## ¿Cómo usar MarkDown?
 
 Lo primero y muy importante, saber en qué codificación está el
