@@ -39,8 +39,8 @@ sintaxis básica y algunos ejemplos de cómo puedes usarlo. También te voy
 a dar algunos recursos para que puedas sacarle el máximo provecho a este
 lenguaje. Pero te adelanto que lo que notarás es que MarkDown es una simplificación de HTML.
 
-<!-- ------------------------------------------------------------------------
- -->
+------------------------------------------------------------------------
+
 ## ¿Cómo usar MarkDown?
 
 Lo primero y muy importante, saber en qué codificación está el
@@ -138,6 +138,7 @@ quieras que se muestre en la página y cierras paréntesis.
 
 ```MarkDown
 [Una página de ejemplo.](https://www.ejemplo.com)
+```
 
 ## Publicación
 
@@ -152,8 +153,6 @@ Existen páginas que aceptan contenido hecho directamente en MarkDown como foros
 
 ### Tutoriales y guías
 
-- [El tutorial de tecnoconocimiento
-accesible.](https://www.youtube.com/watch?v=3K-aFgctmkk)
+- [El tutorial de tecnoconocimiento accesible.](https://www.youtube.com/watch?v=3K-aFgctmkk)
 - [Charla de NVDA.](https://www.youtube.com/watch?v=mMN39MMN07I)
-- [La guía más completa de MarkDown en
-español.](https://markdown.es/)
+- [La guía más completa de MarkDown en español.](https://markdown.es/)
