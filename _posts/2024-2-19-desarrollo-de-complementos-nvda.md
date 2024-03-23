@@ -71,4 +71,4 @@ Esto permite que podamos hacer cambios y commits desde el repositorio, y probar 
 
 En el siguiente audio demuestro algunos detalles a tener en cuenta a la hora de crear un módulo de aplicación para interactuar con la interfaz de una aplicación utilizando el navegador de objetos, y la consola integrada de NVDA.
 
-[Reproducir en una nueva pestaña](http://gera.ar/player?id=addons&title=Desarrollo%20de%20complementos%20para%20NVDA){target="_blank" title="Se abre en nueva pestaña"}
+[Reproductor de audio](http://gera.ar/player?id=addons&title=Desarrollo+de+complementos+para+NVDA)
