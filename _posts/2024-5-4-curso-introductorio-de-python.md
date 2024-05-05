@@ -7,17 +7,17 @@ tags: [programación-accesible,python, eventos]
 excerpt: Curso introductorio de Python accesible con capacitadero
 ---
 
-Únete a la Comunidad de Programación Accesible y descubre nuestro nuevo curso gratuito de Python:
+Descubre este emocionante curso gratuito introductorio de Python :
 
-¡Inscripciones abiertas para el curso introductorio!
+🚀 Inscripciones Abiertas, ¡Apresúrate a registrarte!
 
 ¿Conoces a alguien interesado en aprender este lenguaje versátil y altamente demandado? ¡Esta es su oportunidad!
 
-Lo mejor de todo es que el curso es completamente gratuito y será impartido por un miembro destacado de nuestra comunidad.
+Lo destacable es que el curso es totalmente gratuito y será impartido por un miembro de nuestra comunidad, ¡el profe José de Capacitadero!
 
-¿Cuándo comienza? El 13 de mayo. No dejes pasar esta oportunidad.
+📅 Inicio del Curso: 13 de mayo. ¡inscríbete ya y aprovecha este curso preparado especialmente para tí!
 
-¿Cómo puedes inscribirte? Simplemente completa un sencillo formulario de preinscripción.
+📝 Cómo Inscribirse: Completa un breve formulario de preinscripción ¡Y eso es todo!
 
 [Formulario de preinscripción](https://docs.google.com/forms/d/e/1FAIpQLSfVA86MXyfbmayPaJqv21J40yZdDkJ487DWXLFzjJTjd7VnIA/viewform)
 
