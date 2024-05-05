@@ -1,7 +1,7 @@
 ---
 layout: page
-title: programación
-permalink: /programación/
+title: Programación
+permalink: /programacion/
 ---
 
 Post sobre programación y lenguajes:
