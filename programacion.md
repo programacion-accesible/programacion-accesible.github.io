@@ -1,6 +1,6 @@
 ---
 layout: page
-title: programación
+title: Programación
 permalink: /programacion/
 ---
 
