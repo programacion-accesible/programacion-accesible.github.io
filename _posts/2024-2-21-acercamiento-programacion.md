@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Un primer acercamiento a la programación
-category: programación
+category: programacion
 tags: [python, matemáticas]
 author: Quico Saval
 excerpt: Quizá sepas resolver problemas sencillos. Incluso puede que sepas resolverlos con un ordenador. Pero, ¿por qué con programación?
@@ -25,7 +25,7 @@ Por lo tanto, pensamos en calcular primero los gastos y luego hacer la resta par
 
 Si estamos resolviendo el problema en papel podemos usar la calculadora para calcular los gastos:
 
-> 1000 * (4/5) = 800
+> 1000 \* (4/5) = 800
 
 Ahora calculamos el beneficio:
 
@@ -41,7 +41,7 @@ Hemos resuelto el problema, pero si cambia alguna de las cantidades tendremos qu
 
 Supongamos que en la celda a1 de nuestra hoja de cálculo escribimos los ingresos (1000). Si queremos calcular los gastos en la celda a2 podemos usar una fórmula como esta:
 
-> =4/5*a1
+> =4/5\*a1
 
 Si ahora queremos calcular los beneficios en a3 podemos usar una fórmula como la siguiente:
 
@@ -94,8 +94,8 @@ print(f"El beneficio es de {beneficios} unidades monetarias.\n")
 
 Lo que hemos conseguido resolviendo el problema con programación es:
 
-- Sabemos dónde se guarda cada dato porque le hemos dado un nombre comprensible a cada variable.
-- Las fórmulas se parecen mucho más a las que encontraríamos en la solución del libro de matemáticas que las de la hoja de cálculo.
-- El programa nos da la misma solución redactada que la que se había hecho en papel.
-- Se puede cambiar cualquier dato y ver cómo cambian los beneficios.
-- Con más conocimientos se puede ampliar la funcionalidad del programa. Por ejemplo, se podría pedir al usuario que introduzca los datos de ingresos y gastos.
+-   Sabemos dónde se guarda cada dato porque le hemos dado un nombre comprensible a cada variable.
+-   Las fórmulas se parecen mucho más a las que encontraríamos en la solución del libro de matemáticas que las de la hoja de cálculo.
+-   El programa nos da la misma solución redactada que la que se había hecho en papel.
+-   Se puede cambiar cualquier dato y ver cómo cambian los beneficios.
+-   Con más conocimientos se puede ampliar la funcionalidad del programa. Por ejemplo, se podría pedir al usuario que introduzca los datos de ingresos y gastos.
