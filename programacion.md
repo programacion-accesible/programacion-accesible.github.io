@@ -6,8 +6,8 @@ permalink: /programacion/
 
 Post sobre programación y lenguajes:
 
+{% capture category_name %}programacion{% endcapture %}
 
-{% capture category_name %}programación{% endcapture %}
 <div>
 <h2 class="category-head">{{ category_name }}</h2>
 
@@ -16,4 +16,5 @@ Post sobre programación y lenguajes:
       <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></li>
     {% endfor %}
     </ul>
+
   </div>
