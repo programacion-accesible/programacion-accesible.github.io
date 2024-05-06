@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Desarrollo de complementos para NVDA
-category: programación
+category: programacion
 tags: [NVDA, python]
 author: Gera Kessler
 excerpt: Elementos básicos para la creación de módulos globales o de aplicación para el lector de pantallas NVDA
@@ -33,11 +33,11 @@ Para revisar un complemento sin instalarlo tan solo es necesario cambiar la exte
 Este directorio de NVDA alojado entre los archivos de configuración del usuario es una opción útil para probar el código durante el desarrollo.
 Para poder utilizarlo es necesario activarlo y hacerlo visible desde la configuración de NVDA:
 
-* Abrir el menú de NVDA, preferencias, opciones
-* En la categoría avanzado, activar la casilla "Comprendo que cambiar estas opciones puede hacer que NVDA funcione incorrectamente"
-* Activar la casilla "Habilitar la carga de código personalizado desde el directorio Developer Scratchpad"
-* Aplicar cambios
-* Activar la opción "Abrir el directorio developer scratchpad"
+-   Abrir el menú de NVDA, preferencias, opciones
+-   En la categoría avanzado, activar la casilla "Comprendo que cambiar estas opciones puede hacer que NVDA funcione incorrectamente"
+-   Activar la casilla "Habilitar la carga de código personalizado desde el directorio Developer Scratchpad"
+-   Aplicar cambios
+-   Activar la opción "Abrir el directorio developer scratchpad"
 
 La ruta de este directorio es la siguiente:
 
@@ -45,16 +45,16 @@ La ruta de este directorio es la siguiente:
 
 Dentro de este directorio se encuentran las carpetas "appModules", para los módulos de aplicación, y "globalPlugins" para los mólulos globales.
 Para hacer que funcionen los módulos una vez pegados en el directorio correspondiente, es necesario recargarlos con el atajo "NVDA + control + f3" o reiniciando NVDA.
-Es importante recordar que una vez realizada las pruebas hay que  limpiar estos directorios para que no queden cargados scripts innecesarios que pueden perjudicar el buen funcionamiento del lector de pantallas.
+Es importante recordar que una vez realizada las pruebas hay que limpiar estos directorios para que no queden cargados scripts innecesarios que pueden perjudicar el buen funcionamiento del lector de pantallas.
 
 ### Base para módulos de aplicación o mólulos globales
 
 Cuando la intención es crear scripts para una aplicación determinada, hay que crear un archivo con extensión py que tenga el nombre del ejecutable de la aplicación y pegarlo en el directorio AppModules.
 El nombre del ejecutable podemos obtenerlo pulsando "NVDA + control + f1" con la app enfocada. El archivo py requiere que el nombre esté escrito en minúsculas, por ejemplo:
 
-* Bloc de notas; notepad.py
-* Google Chrome; chrome.py
-* SoundForge 17; forge17.py
+-   Bloc de notas; notepad.py
+-   Google Chrome; chrome.py
+-   SoundForge 17; forge17.py
 
 En el caso de los módulos globales, estos pueden tener cualquier nombre, preferentemente algo que defina su funcionalidad. Deben ser ubicados en el directorio globalPlugins
 

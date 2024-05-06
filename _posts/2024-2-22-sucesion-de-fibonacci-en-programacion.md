@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Explicando la sucesión de Fibonacci en un simple algoritmo
-category: programación
+category: programacion
 tags: [matemáticas, fibonacci, javascript]
 author: Ronny González
 excerpt: ¿Alguna vez escuchaste de la sucesión de Fibonacci? ¡Hagamos un algoritmo para que nuestra computadora lo realice por nosotros!
 ---
 
-Es  una sucesión infinita de números naturales que comienza con 2 números y a partir de estos el siguiente es la suma de los dos anteriores.
+Es una sucesión infinita de números naturales que comienza con 2 números y a partir de estos el siguiente es la suma de los dos anteriores.
 
 Fue creada por el matemático italiano Leonardo de Pisa en el siglo XIII y es ampliamente utilizada en ciencias de la computación, en teoría de juegos, en la configuración de las ramas de los árboles, en dinámica de los huracanes y en la cría de conejos por mencionar algunos.
 
@@ -18,6 +18,7 @@ Al iniciar la sucesión tenemos los 2 primeros números, el 0 y el 1. Estos, al 
 ## Problema: Encontrar el número 10 en la sucesión de Fibonacci
 
 Para esto, debemos conocer la fórmula siguiente:
+
 > Cada número es la suma de los 2 anteriores a este, con excepción de los 2 primeros números, que son el 0 y el 1. Teniendo en cuenta esto, empecemos a buscar estos valores.
 
 ## Resolviendo el ejercicio sin programación
@@ -41,6 +42,7 @@ Para el 9, sumamos el 8 de la sucesión que era el 13 con el 7 de la misma suces
 Finalmente, para obtener el 10 hacemos lo mismo que hemos venido haciendo con los anteriores, pero en este caso esos anteriores son el 9 y el 8 de la sucesión. Estos eran el 21 y el 13 y ahora al sumarlos tenemos el 34 y se convierte en el tan buscado 10de nuestra sucesión.
 
 Esta sucesión es infinita, por lo que podemos ir sumando valores para encontrar el siguiente. Solo teniendo en cuenta la fórmula.
+
 > Cada número en la sucesión es la suma de los 2 anteriores a excepción de los 2 primeros números.
 
 Ahora, veamos como resolver este problema con código.
@@ -63,14 +65,15 @@ Dentro de esta función, definiremos un array con 2 posiciones. 0, 1 y la llamar
 let secuencia = [0, 1];
 ```
 
-Seguimos dentro de la función y crearemos un bucle o ciclo for. Este iniciará en 2, ya que no es necesario iniciarlo en 0, porque estos valores ya están establecidos y lo que buscamos es completar el arreglo con los números de la sucesión. Este for se va a recorrer mientras que  su iterador sea menor a num, que es el parámetro que tiene la función y se aumentará de 1 en 1. Cuando sean iguales, este no continuará ejecutándose y el flujo de ejecución saldrá de el.
+Seguimos dentro de la función y crearemos un bucle o ciclo for. Este iniciará en 2, ya que no es necesario iniciarlo en 0, porque estos valores ya están establecidos y lo que buscamos es completar el arreglo con los números de la sucesión. Este for se va a recorrer mientras que su iterador sea menor a num, que es el parámetro que tiene la función y se aumentará de 1 en 1. Cuando sean iguales, este no continuará ejecutándose y el flujo de ejecución saldrá de el.
 
 ```javascript
     for (let i = 2; i < num; i++) {}
 ```
 
 Dentro del for, haremos lo siguiente:
-- el arreglo secuencia será igual a su posición restándole 1 y sumándole el mismo arreglo pero restándole 2 a su posición. Veamos.
+
+-   el arreglo secuencia será igual a su posición restándole 1 y sumándole el mismo arreglo pero restándole 2 a su posición. Veamos.
 
 ```javascript
         secuencia[i] = secuencia[i - 1] + secuencia[i - 2];
@@ -89,8 +92,8 @@ console.log(fibo(10));
 ```
 
 Esto lo que hace es mostrarnos un arreglo con los siguientes valores de la sucesión:
-\[0, 1,  1,  2,  3,
-  5, 8, 13, 21, 34]
+\[0, 1, 1, 2, 3,
+5, 8, 13, 21, 34]
 
 ¿Genial verdad? Pueden crear variables he igualarlas a la posición del arreglo menos 1 y menos 2 y luego imprimirlas para que comprueben que está pasando por debajo realmente, que no es más que asignándole al arreglo el valor de las posiciones a partir de 2 y restándole 1 o 2 al índice y reasignándolos.
 
