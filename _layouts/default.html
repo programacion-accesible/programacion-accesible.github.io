@@ -1,71 +1,63 @@
 <!DOCTYPE html>
 <html lang="es">
-  <head>
-    <title>
-      {% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{
-      site.description }}
-    </title>
 
-    {% include meta.html %}
+<head>
+  <title>
+    {% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{
+    site.description }}
+  </title>
 
-    <!--[if lt IE 9]>
+  {% include meta.html %}
+
+  <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <link
-      rel="stylesheet"
-      type="text/css"
-      href="{{ site.baseurl }}/style.css"
-    />
-    <link
-      rel="alternate"
-      type="application/rss+xml"
-      title="{{ site.name }} - {{ site.description }}"
-      href="{{ site.baseurl }}/feed.xml"
-    />
-  </head>
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}"
+    href="{{ site.baseurl }}/feed.xml" />
+</head>
 
-  <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <div class="site-info">
-            <p class="site-name">{{ site.name }}</p>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
+<body>
+  <div class="wrapper-masthead">
+    <div class="container">
+      <header class="masthead clearfix">
+        <div class="site-info">
+          <p class="site-name">{{ site.name }}</p>
+          <p class="site-description">{{ site.description }}</p>
+        </div>
 
-          <nav>
-            <ul style="list-style-type: none">
-              <li><a href="{{ site.baseurl }}/">Inicio</a></li>
-              <li><a href="{{ site.baseurl }}/nosotros">Quienes somos</a></li>
-              <li><a href="{{ site.baseurl }}/comunidad">Novedades</a></li>
-              <li>
-                <a href="{{ site.baseurl }}/reglamento"
-                  >Reglamento de la comunidad</a
-                >
-              </li>
-              <!--
+        <nav>
+          <ul style="list-style-type: none">
+            <li><a href="{{ site.baseurl }}/">Inicio</a></li>
+            <li><a href="{{ site.baseurl }}/nosotros">Quienes somos</a></li>
+            <li><a href="{{ site.baseurl }}/comunidad">Novedades</a></li>
+            <li>
+              <a href="{{ site.baseurl }}/reglamento">Reglamento de la comunidad</a>
+            </li>
+            <!--
               <li><a href="{{ site.baseurl }}/actividades">Actividades</a></li>
               <li><a href="{{ site.baseurl }}/desafios">Desafíos</a></li>
               <li><a href="{{ site.baseurl }}/proyectos">Proyectos</a></li>
               <li><a href="{{ site.baseurl }}/github">Recursos en Github</a></li>
               -->
-              <li>
-                <a href="{{ site.baseurl }}/programación">Programación</a>
-              </li>
-              <li><a href="{{ site.baseurl }}/recursos">Recursos</a></li>
-            </ul>
-          </nav>
-        </header>
-      </div>
+            <li>
+              <a href="{{ site.baseurl }}/programacion">Programación</a>
+            </li>
+            <li><a href="{{ site.baseurl }}/recursos">Recursos</a></li>
+          </ul>
+        </nav>
+      </header>
     </div>
+  </div>
 
-    <main id="main" class="container">{{ content }}</main>
+  <main id="main" class="container">{{ content }}</main>
 
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">{% include footer.html %}</footer>
-      </div>
+  <div class="wrapper-footer">
+    <div class="container">
+      <footer class="footer">{% include footer.html %}</footer>
     </div>
-  </body>
+  </div>
+</body>
+
 </html>
