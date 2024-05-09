@@ -2,7 +2,7 @@
 layout: post
 title: Qué es MarkDown y por qué deberías usarlo
 category: programación
-tags: [markdown, escritura, web]
+tags: [markdown, lenguajes-de-marcado, web]
 author: Ulises Milani
 excerpt: Aprende a usar MarkDown, el lenguaje de marcado que te permite crear documentos HTML con un formato sencillo y legible, usando sólo texto plano.
 ---
