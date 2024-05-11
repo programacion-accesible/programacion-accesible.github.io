@@ -9,7 +9,7 @@ Post sobre programación y lenguajes:
 {% capture category_name %}programacion{% endcapture %}
 
 <div>
-<h2 class="category-head">{{ category_name }}</h2>
+<!-- <h2 class="category-head">{{ category_name }}</h2> -->
 
     <ul>
     {% for post in site.categories[category_name] %}
