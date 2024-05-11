@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Qué es MarkDown y por qué deberías usarlo
-category: programación
+category: programacion
 tags: [markdown, lenguajes-de-marcado, web]
 author: Ulises Milani
 excerpt: Aprende a usar MarkDown, el lenguaje de marcado que te permite crear documentos HTML con un formato sencillo y legible, usando sólo texto plano.
@@ -27,10 +27,10 @@ más.
 
 Usar MarkDown tiene muchas ventajas. Algunas de ellas son:
 
-- Es fácil de aprender y de usar. No necesitas tener conocimientos previos de HTML o CSS para dar formato a tus textos. Sólo necesitas unos pocos símbolos.
-- Es rápido y eficiente. No pierdes tiempo en diseñar o ajustar el formato de tus textos. Sólo te enfocas en el contenido y en el mensaje que quieres transmitir.
-- Es legible y elegante. Tus textos se ven bien tanto en su forma de entrada como de salida. No hay distracciones ni elementos innecesarios que afecten la lectura o la comprensión de tus textos.
-- Es compatible y accesible. Tus textos se pueden abrir y editar en cualquier plataforma o dispositivo, sin perder el formato original. Además, tus textos se adaptan a las preferencias y necesidades de tus lectores.
+-   Es fácil de aprender y de usar. No necesitas tener conocimientos previos de HTML o CSS para dar formato a tus textos. Sólo necesitas unos pocos símbolos.
+-   Es rápido y eficiente. No pierdes tiempo en diseñar o ajustar el formato de tus textos. Sólo te enfocas en el contenido y en el mensaje que quieres transmitir.
+-   Es legible y elegante. Tus textos se ven bien tanto en su forma de entrada como de salida. No hay distracciones ni elementos innecesarios que afecten la lectura o la comprensión de tus textos.
+-   Es compatible y accesible. Tus textos se pueden abrir y editar en cualquier plataforma o dispositivo, sin perder el formato original. Además, tus textos se adaptan a las preferencias y necesidades de tus lectores.
 
 ### ¿Cuál es la diferencia entre MarkDown y HTML?
 
@@ -39,7 +39,7 @@ sintaxis básica y algunos ejemplos de cómo puedes usarlo. También te voy
 a dar algunos recursos para que puedas sacarle el máximo provecho a este
 lenguaje. Pero te adelanto que lo que notarás es que MarkDown es una simplificación de HTML.
 
-------------------------------------------------------------------------
+---
 
 ## ¿Cómo usar MarkDown?
 
@@ -86,7 +86,7 @@ blanco, y escribir en la segunda línea que se nos creó.
 ```MarkDown
 Este texto forma parte del primer párrafo.
 
-Esto ya va en el segundo  
+Esto ya va en el segundo
 y tiene dos líneas.
 ```
 
@@ -148,11 +148,11 @@ Existen páginas que aceptan contenido hecho directamente en MarkDown como foros
 
 ### Conversores
 
-- [TCA convert doc](https://tecnoconocimientoaccesible.blogspot.com/2021/05/tca-convertdoc-12-con-reconocimiento-de.html)
-- [Pandoc, convversor por línea de comandos.](https://pandoc.org/installing.html)
+-   [TCA convert doc](https://tecnoconocimientoaccesible.blogspot.com/2021/05/tca-convertdoc-12-con-reconocimiento-de.html)
+-   [Pandoc, convversor por línea de comandos.](https://pandoc.org/installing.html)
 
 ### Tutoriales y guías
 
-- [El tutorial de tecnoconocimiento accesible.](https://www.youtube.com/watch?v=3K-aFgctmkk)
-- [Charla de NVDA.](https://www.youtube.com/watch?v=mMN39MMN07I)
-- [La guía más completa de MarkDown en español.](https://markdown.es/)
+-   [El tutorial de tecnoconocimiento accesible.](https://www.youtube.com/watch?v=3K-aFgctmkk)
+-   [Charla de NVDA.](https://www.youtube.com/watch?v=mMN39MMN07I)
+-   [La guía más completa de MarkDown en español.](https://markdown.es/)
