@@ -25,24 +25,18 @@ Para instalar PyEnv en Windows, utilizaremos pyenv-win, hecha originalmente para
 1.  Creamos un directorio y le llamaremos .pyenv en la carpeta personal _ La carpeta del usuario _. Descomprimimos la carpeta pyenv-win y el archivo .version justo en ese directorio
 1.  Ahora, debemos agregar varias rutas a las variables de entorno, tanto en el path del usuario como en las variables de entorno principales. Para esto podemos hacerlo de manera manual y usando la terminal PowerShell. Lo haremos usando el segundo método.
 
-    -   Abre la terminal como administrador.
-
-    -   Ingresa lo siguiente
-
+    - Abre la terminal como administrador.
+    - Ingresa lo siguiente:
     ```PowerShell
     [System.Environment]::SetEnvironmentVariable('PYENV',$env:USERPROFILE + "\.pyenv\pyenv-win\","User")
-
     [System.Environment]::SetEnvironmentVariable('PYENV_HOME',$env:USERPROFILE + "\.pyenv\pyenv-win\","User")
     ```
 
     Estas variables apuntan al directorio .pyenv que está en la carpeta personal.
-
-    -   Continuamos añadiendo dos variables más, pero esta vez en el path. Estas nos permitirán llamar a pyenv desde la terminal de PowerShell. Seguimos con la terminal abierta en administrador y ejecutamos lo siguiente:
-
+    - Continuamos añadiendo dos variables más, pero esta vez en el path. Estas nos permitirán llamar a pyenv desde la terminal de PowerShell. Seguimos con la terminal abierta en administrador y ejecutamos lo siguiente:
     ```
     [System.Environment]::SetEnvironmentVariable('path', $env:USERPROFILE + "\.pyenv\pyenv-win\bin;" + $env:USERPROFILE + "\.pyenv\pyenv-win\shims;" + [System.Environment]::GetEnvironmentVariable('path', "User"),"User")
     ```
-
 1.  Finalmente, cerramos la terminal que teníamos abierta en administrador y podemos abrir otra ventana de terminal normalmente.
 
 ## Instalar PyEnv en Mac
