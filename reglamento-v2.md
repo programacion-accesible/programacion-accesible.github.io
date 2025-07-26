@@ -36,10 +36,19 @@ Este grupo **no es un canal para temas generales, personales o sociales**, sino 
 
 ## 3. Comunicación entre los usuarios
 
-* Siempre que sea posible, las preguntas y respuestas deben enviarse por escrito.
-* Se permite el uso de audios únicamente para aclarar aspectos que resulten difíciles de explicar por texto.
-* Antes de enviar un audio, se debe escribir un mensaje indicando brevemente el tema que se tratará.
-* Para facilitar la comprensión, los mensajes deben tener buena ortografía, evitar abreviaturas y utilizar correctamente los signos de puntuación.
+Se recomienda priorizar el uso de mensajes de texto para realizar consultas o responder dudas, ya que son más fáciles de seguir, revisar y buscar posteriormente.
+
+El uso de audios está permitido, especialmente cuando sea necesario explicar algo en mayor detalle o cuando la respuesta escrita resulte poco clara. En estos casos, se sugiere **organizar bien la idea antes de grabar**, para que el audio sea directo y comprensible.
+
+Como referencia, **audios que superan los 30 segundos pueden volverse difíciles de seguir**, por lo que se recomienda ser breve y al punto.
+
+Para facilitar la lectura y comprensión de los textos:
+
+* Es importante cuidar la ortografía.
+* Evitar el uso de abreviaturas innecesarias.
+* Usar correctamente los signos de puntuación.
+
+El objetivo es que todas las personas puedan entender con claridad lo que se comparte en el grupo.
 
 ## 4. Archivos permitidos
 
@@ -65,15 +74,24 @@ Una vez resuelta la consulta, se recomienda agradecer y, si es posible, comparti
 
 ### 5.3. Relevancia del contenido
 
-Antes de compartir contenido, verifica si es adecuado para los objetivos del grupo. Si **no está directamente relacionado con la programación**, herramientas técnicas o temas de accesibilidad, **no lo envíes**.
+Antes de compartir contenido, asegúrate de que esté alineado con los objetivos del grupo. Solo se permite material que esté **directamente relacionado con la programación, las herramientas técnicas o la accesibilidad digital aplicada al desarrollo de software**.  
+Se debe evitar compartir rumores o noticias sin verificar su autenticidad.
 
-No se permite:
+No está permitido:
 
-* Spam ni publicidad.
-* Contenido que no provenga de fuentes confiables.
-* Información que no cumpla con criterios mínimos de accesibilidad.
+* **Spam o publicidad**, entendido como:
 
-También se debe evitar compartir rumores o noticias sin verificar su autenticidad.
+  * Promoción de servicios o productos personales o comerciales.
+  * Enlaces a cursos pagos propios, consultorías, software de pago o cualquier tipo de venta directa.
+* Contenido que no provenga de **fuentes confiables o verificadas**.
+* Información que **no cumpla con criterios mínimos de accesibilidad** (por ejemplo, material que no puede ser usado por lectores de pantalla).
+
+Sí se permite:
+
+* Recomendaciones personales de herramientas, libros o recursos útiles.
+* Difusión de proyectos de código abierto, iniciativas sin fines de lucro (ONG), y contenidos bajo licencias libres o abiertas, siempre que estén relacionados con la temática del grupo.
+
+En caso de duda sobre si un contenido es apropiado, consulta antes con la administración.
 
 ### 5.4. Opiniones y críticas
 
@@ -103,7 +121,7 @@ El grupo no es solo para resolver dudas propias. Todos los miembros son bienveni
 
 Si encuentras respuestas útiles en otros espacios de internet, te animamos a compartirlas aquí para enriquecer al grupo con nuevas ideas y recursos.
 
-5.8. Contenido generado con inteligencia artificial
+### 5.8. Contenido generado con inteligencia artificial
 
 Si vas a compartir contenido generado con inteligencia artificial (IA) —como textos, audios, videos o fragmentos de código—, debes avisarlo explícitamente al grupo.
 Antes de enviar cualquier texto generado por IA, verifica que la información sea correcta, clara y útil. No se permite compartir contenido automatizado sin comprobar su veracidad.
