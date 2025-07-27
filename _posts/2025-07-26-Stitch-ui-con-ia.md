@@ -53,3 +53,4 @@ Sin embargo, es fundamental que quienes diseñan con estas herramientas comprend
 
 * [Anuncio oficial de Google en I/O 2025 sobre Stitch — The Times of India](https://timesofindia.indiatimes.com/technology/artificial-intelligence/google-introduces-stitch-ai-powered-tool-for-app-design-and-development-at-google-i/o-2025/articleshow/121332071.cms)
 * [presentamos Stitch, una nueva manera de diseñar UI](https://developers.googleblog.com/es/stitch-a-new-way-to-design-uis/)
+* [Google Stitch](https://stitch.withgoogle.com/)
