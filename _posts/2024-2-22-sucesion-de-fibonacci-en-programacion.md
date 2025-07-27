@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Explicando la sucesión de Fibonacci en un simple algoritmo
-category: programacion
-tags: [matematica, javascript]
+category: tutoriales
+tags: [matemática, javascript]
 author: Ronny González
 excerpt: ¿Alguna vez escuchaste de la sucesión de Fibonacci? ¡Hagamos un algoritmo para que nuestra computadora lo realice por nosotros!
 ---

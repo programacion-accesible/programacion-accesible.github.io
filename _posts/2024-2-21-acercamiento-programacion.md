@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Un primer acercamiento a la programación
-category: programacion
-tags: [python, matematicas]
+date: 2024-02-21 11:30:00 -0300
+category: tutoriales
+tags: [python, matemática]
 author: Quico Saval
 excerpt: Quizá sepas resolver problemas sencillos. Incluso puede que sepas resolverlos con un ordenador. Pero, ¿por qué con programación?
 ---

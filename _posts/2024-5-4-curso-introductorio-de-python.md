@@ -2,8 +2,8 @@
 layout: post
 title: Curso introductorio de Python
 author: Ronny González
-category: capacitaciones
-tags: [programacion-accesible, python, eventos]
+category: noticias
+tags: [programación-accesible, python, eventos]
 excerpt: Curso introductorio de Python accesible con capacitadero
 ---
 

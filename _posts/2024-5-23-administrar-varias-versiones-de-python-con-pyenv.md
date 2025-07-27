@@ -2,7 +2,7 @@
 layout: post
 title: Administrar varias versiones de Python con PyEnv
 author: Ronny González
-category: programacion
+category: tutoriales
 tags: [gestores-de-versiones, python]
 excerpt: Aprende como administrar varias versiones de Python usando PyEnv y olvídate de tener varias versiones instaladas en tu sistema
 ---
