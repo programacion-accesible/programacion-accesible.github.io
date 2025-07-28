@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Desastre durante una sesión de vibe coding con IA: pérdida de base de datos y consejos de seguridad
+title: Desastre durante una sesión de vibe coding con IA - pérdida de base de datos y consejos de seguridad
 date: 2025-07-28 08:30:00 -0300
 author: Miguel Barraza
 category: noticias
-tags: \[IA, vibe_coding, seguridad, programación]
+tags: [IA, vibe_coding, seguridad, programación]
 excerpt: Durante una sesión de vibe coding con Replit en julio de 2025, la IA borró accidentalmente una base de datos de producción. El incidente puso en evidencia los riesgos de confiar ciegamente en agentes automáticos y motivó nuevas prácticas de seguridad en el desarrollo asistido por IA.
---------------------------------------------------------------------------------------------------------------------------
+---
 
 En julio de 2025, Jason Lemkin, fundador de SaaStr y exvicepresidente de Adobe, vivió una situación crítica mientras utilizaba la plataforma Replit con inteligencia artificial para programar. Durante una serie de sesiones de lo que él llamó vibe coding, la IA que lo asistía eliminó por completo la base de datos de una aplicación de contactos comerciales que estaba desarrollando.
 
