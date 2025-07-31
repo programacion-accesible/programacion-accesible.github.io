@@ -4,78 +4,77 @@ title: Mujeres IT (PCD)
 permalink: /mujeres-it-pcd/
 ---
 
-**Tecnología con perspectiva, inclusión y comunidad**
+# Tecnología con perspectiva, inclusión y comunidad
 
-**Mujeres IT PCD** es una nueva iniciativa de la comunidad *Programación Accesible*, pensada especialmente para mujeres con discapacidad visual que quieren acercarse o crecer en el mundo de la informática.
+**Mujeres IT PCD** es una nueva iniciativa de la comunidad *Programación Accesible*, pensada especialmente para mujeres con discapacidad visual que desean acercarse o desarrollarse en el mundo de la tecnología.
 
-Nuestro propósito es construir un espacio seguro, accesible y con enfoque de género, donde podamos aprender, compartir experiencias y avanzar juntas en áreas como la programación, el testing, la accesibilidad digital, el diseño UX y muchas más.
-
----
-
-### ¿Por qué es importante esta iniciativa?
-
-En el ámbito de la tecnología persisten barreras estructurales que impiden el acceso equitativo para muchas personas. A las desigualdades de género se suman las barreras de accesibilidad que enfrentan quienes tienen discapacidad visual.
-
-**Mujeres IT (PCD) nace para transformar esta realidad**, creando oportunidades concretas de aprendizaje, visibilización y participación activa en el mundo IT.
-
-Más mujeres con discapacidad visual en tecnología significa más diversidad, más innovación, y un futuro más justo y accesible para todas las personas.
+Nuestro propósito es construir un espacio seguro, accesible y con enfoque de género, donde podamos aprender, compartir experiencias y avanzar juntas en áreas como programación, testing, accesibilidad digital, diseño UX y muchas más.
 
 ---
 
-### ¿A quién está dirigido este espacio?
+## ¿Por qué es importante esta iniciativa?
 
-Esta propuesta está abierta a todas las mujeres con discapacidad visual de Latinoamérica que quieran:
+En el ámbito tecnológico aún existen barreras estructurales que dificultan el acceso equitativo. A las desigualdades de género se suman los desafíos de accesibilidad que enfrentan las personas con discapacidad visual.
 
-* Conocer a otras mujeres que están comenzando o ya trabajan en el mundo IT.
-* Aprender sobre distintas áreas como programación, testing, accesibilidad, UX o herramientas colaborativas.
-* Comprender mejor los conceptos técnicos en un entorno accesible, sin prejuicios ni barreras.
-* Compartir ideas, dudas, experiencias y crecer en comunidad.
+**Mujeres IT (PCD) nace para cambiar esta realidad**, creando oportunidades reales de aprendizaje, visibilización y participación activa en el mundo de la tecnología.
 
-No se requiere experiencia previa ni conocimientos técnicos. Si tenés curiosidad, interés o simplemente querés probar, este espacio es para vos.
+Más mujeres con discapacidad visual en el sector tecnológico significa más diversidad, más innovación y un futuro más justo y accesible para todas las personas.
 
 ---
 
-### ¿Querés dar una charla?
+## ¿A quién está dirigido este espacio?
 
-Si trabajás o estudiás en tecnología, si ya recorriste parte del camino o simplemente querés compartir tu historia para motivar a otras, te invitamos a postular una charla.
+Esta propuesta está dirigida a todas las mujeres con discapacidad visual de América Latina que deseen:
 
-**No es necesario tener discapacidad visual para ser expositora.**
-Lo importante es tu voluntad de compartir y tu compromiso con una tecnología más inclusiva.
+- Conocer a otras mujeres que están iniciando o ya trabajan en el sector tecnológico.
+- Aprender sobre diferentes áreas como programación, testing, accesibilidad, UX o herramientas de trabajo colaborativo.
+- Comprender mejor los conceptos técnicos en un entorno accesible, libre de prejuicios y barreras.
+- Compartir ideas, dudas, experiencias y crecer en comunidad.
 
-Sumar tu testimonio, enseñar lo que sabés o contar cómo empezaste puede ser una gran inspiración para otras mujeres que están buscando una oportunidad.
+No se requiere experiencia previa ni conocimientos técnicos. Si tienes curiosidad, interés o simplemente deseas intentarlo, este espacio es para ti.
 
-Para participar como expositora, te pedimos que envíes:
+---
 
-* Título de la charla
-* Breve descripción (temas a tratar, enfoque o mensaje principal)
-* Una propuesta de fecha y horario (idealmente a las 19, 20 o 21 horas de Argentina, para facilitar la participación desde distintos países)
+## ¿Te gustaría dar una charla?
+
+Si trabajas o estudias en tecnología, si ya tienes recorrido en el área o simplemente quieres compartir tu historia para inspirar a otras, te invitamos a proponer una charla.
+
+**No es necesario tener discapacidad visual para participar como expositora.**  
+Lo más importante es tu disposición para compartir y tu compromiso con una tecnología más inclusiva.
+
+Compartir tu testimonio, enseñar lo que sabes o contar cómo iniciaste puede ser una gran fuente de inspiración para otras mujeres que buscan una oportunidad.
+
+### Para participar como expositora, te pedimos que envíes:
+
+- Título de la charla  
+- Breve descripción (temas que tratarás, enfoque o mensaje principal)  
+- Una propuesta de fecha y horario (preferiblemente a las 19:00, 20:00 o 21:00 horas de Argentina, para facilitar la participación desde diferentes países)
 
 Las charlas serán grabadas y luego publicadas en nuestro canal de YouTube, para que el contenido siga siendo útil y accesible para muchas más personas.
 
 ---
 
-### ¿Querés participar como oyente?
+## ¿Quieres participar como oyente?
 
-Podés sumarte a las charlas como oyente, sin necesidad de conocimientos previos.
-Este espacio está pensado para acompañarte en tus primeros pasos, para hacer preguntas con confianza, y para descubrir todo lo que podés lograr en el mundo tecnológico.
+Puedes unirte a las charlas como oyente, sin necesidad de conocimientos previos.  
+Este espacio está diseñado para acompañarte en tus primeros pasos, hacer preguntas con confianza y descubrir todo lo que puedes lograr en el mundo tecnológico.
 
-Aprender es un derecho, y aquí vas a encontrar una comunidad que te apoya, te escucha y te impulsa.
-
----
-
-### ¿Cómo participar?
-
-Si querés postular una charla, podés completar este formulario.
-
-Podés participar desde cualquier lugar de Latinoamérica. Solo necesitás una conexión a internet y ganas de formar parte.
+Aprender es un derecho, y aquí encontrarás una comunidad que te apoya, te escucha y te impulsa.
 
 ---
 
-### Un espacio hecho para mujeres
+## ¿Cómo participar?
 
-**Mujeres IT (PCD)** es más que un ciclo de charlas: es una invitación a construir comunidad, a abrir caminos, a enseñar y a aprender.
+Si deseas postular una charla, puedes completar [este formulario.](https://forms.gle/ShsGy55kgutb78qS6)  
+Puedes participar desde cualquier lugar de América Latina. Solo necesitas una conexión a internet y ganas de ser parte.
 
-Te invitamos a sumar tu historia, tu voz, tus ideas o tus preguntas.
-Juntas, podemos transformar la forma en que las mujeres con discapacidad visual acceden al mundo tecnológico.
+---
+
+## Un espacio creado para mujeres
+
+**Mujeres IT (PCD)** es más que un ciclo de charlas: es una invitación a construir comunidad, abrir caminos, enseñar y aprender.
+
+Te invitamos a sumar tu historia, tu voz, tus ideas o tus preguntas.  
+**Juntas, podemos transformar la forma en que las mujeres con discapacidad visual acceden al mundo de la tecnología.**
 
 **Te esperamos.**
